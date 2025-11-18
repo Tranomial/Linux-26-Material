@@ -29,6 +29,12 @@ Materials and resources from the OSC Linux '26 season, covering topics taught du
 | [Session 1](advanced/Session_1) | Cron Jobs |
 
 
+# Our plan 
+
+[![plan.pdf](plan/Linux-plan.pdf)](plan/Linux-plan.pdf)
+
+
+
 ## 🤝 Contributing
 
 Members of OSC and the Linux Community are welcome to contribute.
