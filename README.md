@@ -3,6 +3,9 @@
 Welcome to the **OSC (Open Source Community) – Linux Community Repository**!  
 This space is dedicated to hosting **lectures, learning materials, notes, and resources** for everyone interested in Linux and open-source technologies.
 
+- **Our Plan** in This Season [Linux-plan.pdf](plan/Linux-plan.pdf)
+
+
 ## 🌐 About OSC
 
 **OSC (Open Source Community)** is an open, collaborative group at FCIS (Faculity of Computer and Information Systems)  ASU (Ain Shams Universty) focused on promoting open-source culture, tools, and knowledge.  
@@ -27,12 +30,6 @@ Materials and resources from the OSC Linux '26 season, covering topics taught du
 | Session                         | Topic                    |
 | ------------------------------- | ------------------------ |
 | [Session 1](advanced/Session_1) | Cron Jobs |
-
-
-# Our plan 
-
-[![plan.pdf](plan/Linux-plan.pdf)](plan/Linux-plan.pdf)
-
 
 
 ## 🤝 Contributing
