@@ -43,3 +43,4 @@ Solve the hands-on inside the pdf and assign it via [google form](https://forms.
 ###### Explanation Piping & Redirection 🪈
 
 - [Video: Piping & Redirection](https://youtu.be/2WgxBIell5w?si=yvcWA5gLt-5LTQCR)
+
