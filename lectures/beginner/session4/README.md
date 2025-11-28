@@ -1,27 +1,40 @@
 # Session 4 – Users, Groups, Permissions & Text Editors 💻
 
 ## 🌟 Overview
+
 This session introduces Linux users, groups, permissions, and basic text editors.
 
 ---
+
 ## **Part 1 — Users, Groups & Permissions** 👥
+
 - Understanding what a **user** is and why it's needed
 - Understanding **groups** and their role in permission management
 - Dealing with users & groups
-- Changing owner/group permissions 
-- File permissions: Read, Write & Execute (r, w, x)🔐 
+- Changing owner/group permissions
+- File permissions: Read, Write & Execute (r, w, x)🔐
 
 ---
+
 ## **Part 2 — Text Editors** ✏️
+
 - nano
 - vim
 
 ---
+
 ## 📚 Materials
+
 - [Slides](Session4.pdf)
 
 ## 🖊 References
-- **BeRoot:** 
+
+- **BeRoot:**
 - [Users & Groups](https://github.com/Open-Source-Community/BeRoot/tree/main/Dealing%20with%20Users%20%26%20Groups)
 - [File Permissions & Ownership](https://github.com/Open-Source-Community/BeRoot/tree/main/Files%20Permissions%20%26%20Ownership)
 - [Text Editors](https://github.com/Open-Source-Community/BeRoot/tree/main/Editors)
+
+#### Additional Resources 📕
+
+- [Managing users & groups in linux](https://youtu.be/r2-idedyOfA?si=J-g5I4wjZ141dfNe)
+- [User Management](https://youtu.be/EZItkGXQwlQ?si=MCI6Pf8XDXTs3B7d)
