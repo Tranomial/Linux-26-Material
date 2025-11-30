@@ -38,3 +38,5 @@ This session introduces Linux users, groups, permissions, and basic text editors
 
 - [Managing users & groups in linux](https://youtu.be/r2-idedyOfA?si=J-g5I4wjZ141dfNe)
 - [User Management](https://youtu.be/EZItkGXQwlQ?si=MCI6Pf8XDXTs3B7d)
+- [nano vs vim (Arabic)](https://youtu.be/HGf_m4TVCZI?si=Z_ppcsmfgS7bcobR)
+- [nano & vim Explanation (English)](https://youtu.be/fDaPYJwuS6M?si=FikhUiyub5dS3vvJ)
