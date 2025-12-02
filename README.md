@@ -33,7 +33,7 @@ Materials and resources from the OSC Linux '26 season, covering topics taught du
 | Session                         | Topic                    |
 | ------------------------------- | ------------------------ |
 | [Session 1](lectures/advanced/Session1/) | Job Scheduling |
-
+| [Session 2](lectures/advanced/Session2/) | Package Managers & Building From Source |
 
 ## 🤝 Contributing
 
